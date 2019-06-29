@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Send_Parcelable_Objects_To_Fragment_Android_Github</string>
+
+    <string name="hint_firstName">First Name</string>
+    <string name="hint_lastName">Last Name</string>
+    <string name="hint_age">Age</string>
+    <string name="button_text_sendToActivity">Send Data To Activity</string>
+    <string name="button_text_showFragment">Show Fragment</string>
+
 </resources>
